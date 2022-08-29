@@ -1,0 +1,13 @@
+
+mat-card{
+    position: absolute;
+    left: 30rem;
+    margin: 5% 12%;
+    width: 30%;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+

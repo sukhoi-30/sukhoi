@@ -1,0 +1,38 @@
+
+.search_div{
+    display: flex;
+    justify-content: center;
+    margin-top: 6rem;
+    margin-bottom: 1.5rem;
+    height: 6rem;
+}
+
+.search_div input{
+    border-radius: 10rem 0 0 10rem;
+    border: none;
+    height: 5rem;
+    width: 37rem;
+    background-color: #f1f1f1;
+    padding: 1.2rem;
+    font-size: 15px;
+    font-weight: 500;
+    outline: none;
+}
+
+.search_btn{
+    color: grey;
+    height: 5rem;
+    width: 7rem;
+    font-size: 14px;
+    border-radius: 0 10rem 10rem 0;
+    border: none;
+    background-color: #a91b1b;
+    color: white;
+    opacity: .8;
+    outline: none;
+}
+
+.search_btn:hover{
+    opacity: 1;
+    cursor: pointer;
+}
